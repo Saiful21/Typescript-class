@@ -2,7 +2,7 @@
 let person = {	
 	firstname: "Saiful",
 	lastname : "islam",
-	nickname:'shuvo';
+	nickname:'shuvo khan';
 	age:32,
 	invt:function(){
 		return 'Hello ' + person.firstname;
